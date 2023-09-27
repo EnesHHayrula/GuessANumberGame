@@ -32,4 +32,4 @@ function highOrLow(number) {
     recursiveAsyncReadLine();
 }
 
-highOrLow(50)
+highOrLow();
